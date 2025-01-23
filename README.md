@@ -8,6 +8,7 @@ The box is done! 3D print in PLA+ on an Ender 5 pro..
 The modules are loosely hanging together, but will move to a veroboard "motherboard", Power: Just USB or whack in a LiPo cell and charge as needed???
 
 dt 31AUG2024
+
 I have been looking at ESP32 modules with WiFi and considering a change to a clock with NTP updates via WiFi, similar to the ESP32 CYD units..
 
 dt 23JAN2025
