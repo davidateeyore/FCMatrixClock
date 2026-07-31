@@ -13,3 +13,6 @@ I have been looking at ESP32 modules with WiFi and considering a change to a clo
 
 dt 23JAN2025
 
+I wonder if I could make this clock portable??? Say li 18650 cell with 3V/5v converter on board..
+
+dt 31JUL2026
